@@ -19,12 +19,6 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
     - Cada visualização deve responder a uma pergunta específica sobre os dados.
 5. **Relatório Interativo**: Desenvolva um relatório interativo com filtros e segmentações para permitir que o usuário explore os dados de diferentes maneiras.
 6. **Conclusões e Insights**: Inclua uma seção no relatório onde você descreve as principais conclusões e insights obtidos a partir da análise.
-
-#### Exemplos de Questões a Responder:
-- Quais são as tendências principais observadas nos dados ao longo do tempo?
-- Existe algum padrão ou anomalia nos dados que mereça atenção?
-- Quais são os principais fatores que influenciam as métricas chave no dataset?
-
   
   Descarregue a base de dados xlsx: https://drive.google.com/drive/folders/1Dto7kpnvzzoueW9QR0sjniqmyWVRVPh9?usp=drive_link
 
@@ -33,15 +27,15 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
 ### :white_check_mark:  Step 1: Abrir as base de dados no PowerQuery;
 ### :white_check_mark:  Step 2: Corrigir possiveis erros na base de dados;
 ### :white_check_mark:  Step 3: Importar os dados para o PowerBI;
-### :white_check_mark:  Step 4: Fazer as analises solicitadas pelos departamento;
-### :white_check_mark:  Step 5: Adicionar insights.
+### :white_check_mark:  Step 4: O que podemos analizae?
 
 ## :bulb: Conclusão
 
-- ** 1-** As vendas foram relativamente consistentes ao longo dos anos, com alguns meses se destacando como os melhores em termos de receita.
-- ** 2-** Gabriel é o vendedor mais bem-sucedido, o que sugere que ele pode ter boas práticas ou uma carteira de clientes sólida.
-- ** 3-** A região Sudeste lidera em termos de vendas, o que pode indicar uma maior demanda ou uma estratégia de vendas mais eficaz nessa região.
-- ** 4-** O curso de VBA é o produto mais popular, sugerindo que há uma forte demanda por habilidades de automação e programação dentro das ferramentas do Microsoft Office.
+No 1º dashboard (Aula 1 - Vendas) Fizemos uma análise para verificar de forma eficaz os seguintes dados: Verificamos o faturamento e a quantidade vendida ao longo dos anos, a quantidade vendida por marca, o faturamento total e também pudemos verficar o produto mais vendido bem como a localidade que mais teve vendas.
+
+Já no 2º dashboard (Aula 2 - Produção) Fizemos vários cartões para fácil visualização dos principais paramentros da cadeia produtiva, tais como Quantidade Produzida, Quantidade de desperdicio, Horas produtivas e hora de máquina parada. Adicionamos gráficos para demonstrar a quatidade produzida, o percentual de produtividade e da qualidade do produto. Também foi adicionado filtro para verificar por operador e por mês.
+
+E no 3º dashboard (Aula 3 - RH) Fizemos gráficos para demonstrar a quatidade de contratações, podemos também vericar a quantidade de funcionários e a quatidade de demissões, tendo assim uma analise de turnover. Um gráfico de funcionários ativos por cidade e por gênero e por fim, verificamos a quantidade de colaboradores, em que área atuam e seu cargo.
 
 ## :battery: Stacks Employed
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
