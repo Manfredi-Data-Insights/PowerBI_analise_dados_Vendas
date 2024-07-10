@@ -29,11 +29,11 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
 
 ## :bulb: Conclusão
 
-No 1º dashboard (Aula 1 - Vendas) Fizemos uma análise para verificar de forma eficaz os seguintes dados: Verificamos o faturamento e a quantidade vendida ao longo dos anos, a quantidade vendida por marca, o faturamento total e também pudemos verficar o produto mais vendido bem como a localidade que mais teve vendas.
+No 1º dashboard (Vendas) Fizemos uma análise para verificar de forma eficaz os seguintes dados: Verificamos o faturamento e a quantidade vendida ao longo dos anos, a quantidade vendida por marca, o faturamento total e também pudemos verficar o produto mais vendido bem como a localidade que mais teve vendas.
 
-Já no 2º dashboard (Aula 2 - Produção) Fizemos vários cartões para fácil visualização dos principais paramentros da cadeia produtiva, tais como Quantidade Produzida, Quantidade de desperdicio, Horas produtivas e hora de máquina parada. Adicionamos gráficos para demonstrar a quatidade produzida, o percentual de produtividade e da qualidade do produto. Também foi adicionado filtro para verificar por operador e por mês.
+Já no 2º dashboard (Produção) Fizemos vários cartões para fácil visualização dos principais paramentros da cadeia produtiva, tais como Quantidade Produzida, Quantidade de desperdicio, Horas produtivas e hora de máquina parada. Adicionamos gráficos para demonstrar a quatidade produzida, o percentual de produtividade e da qualidade do produto. Também foi adicionado filtro para verificar por operador e por mês.
 
-E no 3º dashboard (Aula 3 - RH) Fizemos gráficos para demonstrar a quatidade de contratações, podemos também vericar a quantidade de funcionários e a quatidade de demissões, tendo assim uma analise de turnover. Um gráfico de funcionários ativos por cidade e por gênero e por fim, verificamos a quantidade de colaboradores, em que área atuam e seu cargo.
+E no 3º dashboard (RH) Fizemos gráficos para demonstrar a quatidade de contratações, podemos também vericar a quantidade de funcionários e a quatidade de demissões, tendo assim uma analise de turnover. Um gráfico de funcionários ativos por cidade e por gênero e por fim, verificamos a quantidade de colaboradores, em que área atuam e seu cargo.
 
 ## :battery: Stacks Employed
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
