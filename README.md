@@ -5,8 +5,6 @@
 
 <img src="/Tela.jpg">
 
-## Desafio Power BI: Análise de Dados do Projeto "Do Zero"
-
 #### Descrição:
 Você deve criar um relatório no Power BI utilizando os dados fornecidos nos arquivos. O objetivo é gerar insights significativos a partir desses dados, apresentando visualizações claras e informativas.
 
