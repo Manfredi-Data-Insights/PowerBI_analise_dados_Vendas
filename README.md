@@ -3,7 +3,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Logo PowerBi" width="40"></h1>
 </div>
 
-<img src="/Tela.jpg">
+<img src="\Tela.jpg">
 
 #### Descrição:
 Você deve criar um relatório no Power BI utilizando os dados fornecidos nos arquivos. O objetivo é gerar insights significativos a partir desses dados, apresentando visualizações claras e informativas.
