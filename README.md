@@ -23,7 +23,7 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
 ### :white_check_mark:  Step 1: Abrir as base de dados no PowerQuery;
 ### :white_check_mark:  Step 2: Corrigir possiveis erros na base de dados;
 ### :white_check_mark:  Step 3: Importar os dados para o PowerBI;
-### :white_check_mark:  Step 4: O que podemos analizae?
+### :white_check_mark:  Step 4: O que podemos analizar?
 
 #### Decisões:
 
@@ -59,10 +59,7 @@ Na segunda página, aprofundamos a análise, destacando a distribuição de vend
 
 Por fim, na terceira página, focamos em métricas relacionadas a devoluções e faturamento perdido. Os dados incluem a quantidade devolvida, os percentuais de faturamento perdido e devoluções, análises mensais e segmentações regionais e por fornecedor. Além disso, a funcionalidade de filtragem por categoria permite uma análise personalizada e detalhada dos dados.
 
-Clique [aqui](https://app.powerbi.com/view?r=eyJrIjoiYmU1NWY4YmItMDI5OC00NGFkLWI2ZTktMDg4OGYxNDI1ZTYwIiwidCI6IjMzYTc4NzVmLTMzNmMtNDgzMi04ZDAzLWQ5ODBiOWJlYjdiYiJ9) para ver o Dashboard funcionando: 
-
-
-</div>
+Clique [aqui](https://app.powerbi.com/view?r=eyJrIjoiYmU1NWY4YmItMDI5OC00NGFkLWI2ZTktMDg4OGYxNDI1ZTYwIiwidCI6IjMzYTc4NzVmLTMzNmMtNDgzMi04ZDAzLWQ5ODBiOWJlYjdiYiJ9) para ver o Dashboard funcionando! 
 
 ## :battery: Stacks Employed
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
