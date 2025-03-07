@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> PowerBI | Analisando dados com PowerBI
+  <h1> PowerBI | Analisando dados de Vendas com PowerBI
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Logo PowerBi" width="40"></h1>
 </div>
 
@@ -17,8 +17,6 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
     - Cada visualização deve responder a uma pergunta específica sobre os dados.
 5. **Relatório Interativo**: Desenvolva um relatório interativo com filtros e segmentações para permitir que o usuário explore os dados de diferentes maneiras.
 6. **Conclusões e Insights**: Inclua uma seção no relatório onde você descreve as principais conclusões e insights obtidos a partir da análise.
-  
-  Descarregue a base de dados xlsx: https://drive.google.com/drive/folders/1Dto7kpnvzzoueW9QR0sjniqmyWVRVPh9?usp=drive_link
 
 ## :technologist: Step by Step
 
@@ -27,13 +25,37 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
 ### :white_check_mark:  Step 3: Importar os dados para o PowerBI;
 ### :white_check_mark:  Step 4: O que podemos analizae?
 
+## :decision: Decisões
+
+Na 1ª Aba:
+• Análise de faturamento (e comparação ano anterior)
+• Lucro (e comparação ano anterior)
+• Qtd vendida (e comparação ano anterior)
+• Margem
+• Vendas por Tipo de Loja (Física e Online)
+• Faturamento por Produto
+• Receita, lucro e Vendas por continente/país
+Na 2ª Aba:
+• Abertura de vendas por marca, categoria e produto
+• Análise de melhor produto e melhor loja
+• Comparativo produto vs mês anterior
+Na 3ª Aba:
+• Faturamento perdido
+• Qtd devolvida
+• % Faturamento perdido
+• % Devoluções
+• % Devoluções mensal
+• % Devoluções por região
+• % Devoluções por fornecedor
+• Filtrar por categoria
+
 ## :bulb: Conclusão
 
-No 1º dashboard (Vendas) Fizemos uma análise para verificar de forma eficaz os seguintes dados: Verificamos o faturamento e a quantidade vendida ao longo dos anos, a quantidade vendida por marca, o faturamento total e também pudemos verficar o produto mais vendido bem como a localidade que mais teve vendas.
+O dashboard de vendas foi estruturado em três páginas principais, fornecendo uma visão abrangente e detalhada sobre o desempenho comercial da empresa. Na primeira página, concentramos a análise nos principais indicadores financeiros, como faturamento, lucro e quantidade vendida, comparando-os com os resultados do ano anterior. Também exploramos a margem operacional, as vendas segmentadas por tipo de loja (física e online) e o faturamento por produto, além de oferecer uma visão consolidada da receita, lucro e vendas por continente e país.
 
-Já no 2º dashboard (Produção) Fizemos vários cartões para fácil visualização dos principais paramentros da cadeia produtiva, tais como Quantidade Produzida, Quantidade de desperdicio, Horas produtivas e hora de máquina parada. Adicionamos gráficos para demonstrar a quatidade produzida, o percentual de produtividade e da qualidade do produto. Também foi adicionado filtro para verificar por operador e por mês.
+Na segunda página, aprofundamos a análise, destacando a distribuição de vendas por marca, categoria e produto. Foi realizada uma identificação dos produtos e lojas com melhor desempenho, assim como um comparativo de vendas de produtos em relação ao mês anterior, permitindo insights sobre tendências e sazonalidades.
 
-E no 3º dashboard (RH) Fizemos gráficos para demonstrar a quatidade de contratações, podemos também vericar a quantidade de funcionários e a quatidade de demissões, tendo assim uma analise de turnover. Um gráfico de funcionários ativos por cidade e por gênero e por fim, verificamos a quantidade de colaboradores, em que área atuam e seu cargo.
+Por fim, na terceira página, focamos em métricas relacionadas a devoluções e faturamento perdido. Os dados incluem a quantidade devolvida, os percentuais de faturamento perdido e devoluções, análises mensais e segmentações regionais e por fornecedor. Além disso, a funcionalidade de filtragem por categoria permite uma análise personalizada e detalhada dos dados.
 
 ## :battery: Stacks Employed
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
