@@ -25,7 +25,7 @@ Você deve criar um relatório no Power BI utilizando os dados fornecidos nos ar
 ### :white_check_mark:  Step 3: Importar os dados para o PowerBI;
 ### :white_check_mark:  Step 4: O que podemos analizae?
 
-## :decision: Decisões
+#### Decisões:
 
 Na 1ª Aba:
 • Análise de faturamento (e comparação ano anterior)
@@ -35,10 +35,12 @@ Na 1ª Aba:
 • Vendas por Tipo de Loja (Física e Online)
 • Faturamento por Produto
 • Receita, lucro e Vendas por continente/país
+
 Na 2ª Aba:
 • Abertura de vendas por marca, categoria e produto
 • Análise de melhor produto e melhor loja
 • Comparativo produto vs mês anterior
+
 Na 3ª Aba:
 • Faturamento perdido
 • Qtd devolvida
@@ -56,6 +58,11 @@ O dashboard de vendas foi estruturado em três páginas principais, fornecendo u
 Na segunda página, aprofundamos a análise, destacando a distribuição de vendas por marca, categoria e produto. Foi realizada uma identificação dos produtos e lojas com melhor desempenho, assim como um comparativo de vendas de produtos em relação ao mês anterior, permitindo insights sobre tendências e sazonalidades.
 
 Por fim, na terceira página, focamos em métricas relacionadas a devoluções e faturamento perdido. Os dados incluem a quantidade devolvida, os percentuais de faturamento perdido e devoluções, análises mensais e segmentações regionais e por fornecedor. Além disso, a funcionalidade de filtragem por categoria permite uma análise personalizada e detalhada dos dados.
+
+Clique [aqui](https://app.powerbi.com/view?r=eyJrIjoiYmU1NWY4YmItMDI5OC00NGFkLWI2ZTktMDg4OGYxNDI1ZTYwIiwidCI6IjMzYTc4NzVmLTMzNmMtNDgzMi04ZDAzLWQ5ODBiOWJlYjdiYiJ9) para ver o Dashboard funcionando: 
+
+
+</div>
 
 ## :battery: Stacks Employed
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
